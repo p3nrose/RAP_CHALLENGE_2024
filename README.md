@@ -1,3 +1,6 @@
+# Cheatsheet
+From home directory make a symlink: ln -s ~/rap/lawn_mower/ ~/colcon_ws/src/
+
 # RAP 2024 Challenge
 
 RAP-EN 2024 Challenge Project (graded)
