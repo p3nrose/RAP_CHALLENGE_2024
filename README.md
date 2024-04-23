@@ -1,9 +1,9 @@
 # Cheatsheet
-From home directory make a symlink: ln -s ~/rap/lawn_mower/ ~/colcon_ws/src/
-To build execute change to colcon_ws folder and then: colcon build --symlink-install
-Source setup bash (colcon_ws folder): source install/setup.bash
-Run lawn_mower: ros2 launch lawn_mower lawn_mower_launch.py
-Run lawn_mower with debug output: ros2 launch -d lawn_mower lawn_mower_launch.py
+From home directory make a symlink: ln -s ~/rap/lawn_mower/ ~/colcon_ws/src/<br>
+To build execute change to colcon_ws folder and then: colcon build --symlink-install<br>
+Source setup bash (colcon_ws folder): source install/setup.bash<br>
+Run lawn_mower: ros2 launch lawn_mower lawn_mower_launch.py<br>
+Run lawn_mower with debug output: ros2 launch -d lawn_mower lawn_mower_launch.py<br>
 
 # examples
 find examples in this path (e.g. nav2): /opt/ros/humble/share/nav2_bringup/launch/tb3_simulation_launch.py
